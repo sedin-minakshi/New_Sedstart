@@ -1,4 +1,4 @@
-name: Sedstart QA
+name: New QA
 
 on:
   workflow_dispatch:
